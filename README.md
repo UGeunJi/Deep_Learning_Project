@@ -1,6 +1,6 @@
-# :hospital: Pneumonia Detection with X-Ray Images :chart_with_downwards_trend:
+# :hospital: Pneumonia Detection with X-Ray Images :skull:
 
-[캐글 X-Ray 폐렴 검출 데이터](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+[캐글 X-Ray 폐렴 검출](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ![image](https://user-images.githubusercontent.com/84713532/212211360-e0ac16fe-7681-4f08-9b03-ec05ae6265bc.png)
 
